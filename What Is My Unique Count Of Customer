@@ -1,2 +1,40 @@
-https://public.tableau.com/views/Book12_17169238381470/Dashboard1?:language=en-US&publish=yes&:sid=69BB5E7FCDBA4087A83FB46BFAD9C226-0:0&:display_count=n&:origin=viz_share_link
+
+
+# What Is My Unique Count Of Customer
+
+This Tableau workbook analyzes several key metrics related to customer and policy data. The analyses included are:
+- **All Time Customer Count:** The total number of unique customers over the entire period.
+- **All Time Insurance Value Declared:** The cumulative insurance value declared by all customers.
+- **All Time Policies Sold:** The total number of policies sold over the entire period.
+- **Yearly Count of Policies Sold:** The number of policies sold each year.
+
+## Tableau Workbook Link
+
+You can view the Tableau workbook [here](https://public.tableau.com/views/Book12_17169238381470/Dashboard1?:language=en-US&publish=yes&:sid=69BB5E7FCDBA4087A83FB46BFAD9C226-0:0&:display_count=n&:origin=viz_share_link).
+
+## Description
+
+This project provides insights into customer behavior and insurance policy trends over time. The workbook includes several dashboards and visualizations that help in understanding:
+- The growth and trends in the number of customers.
+- The total insurance value declared and how it has changed over time.
+- The total policies sold and the annual trends in policy sales.
+
+These insights can help in making data-driven decisions for improving customer engagement and optimizing policy sales strategies.
+
+## Screenshots
+
+![Customer Count](path/to/your/screenshot1.png)
+![Insurance Value](path/to/your/screenshot2.png)
+![Policies Sold](path/to/your/screenshot3.png)
+![Yearly Policies Sold](path/to/your/screenshot4.png)
+
+## How to Use
+
+1. Open the link to the Tableau workbook.
+2. Navigate through the different dashboards to explore the data visualizations.
+3. Use the filters provided in the dashboards to customize the view and analyze specific segments of the data.
+
+## Conclusion
+
+This analysis is aimed at providing a comprehensive view of the insurance business's performance over time, with a particular focus on customer and policy metrics. By understanding these metrics, stakeholders can better strategize to enhance overall business performance.
 
